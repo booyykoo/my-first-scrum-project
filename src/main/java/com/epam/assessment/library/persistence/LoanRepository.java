@@ -23,6 +23,8 @@ public class LoanRepository {
         this.loans = new ArrayList<>();
         System.out.println("test2");
         System.out.println("test2");
+        System.out.println("test2");
+        System.out.println("test2");
     }
 
     public void loadLoans() {
