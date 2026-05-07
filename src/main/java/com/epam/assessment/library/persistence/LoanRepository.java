@@ -22,6 +22,7 @@ public class LoanRepository {
         this.bookRepository = bookRepository;
         this.loans = new ArrayList<>();
         System.out.println("test2");
+        System.out.println("test2");
     }
 
     public void loadLoans() {
